@@ -1,3 +1,3 @@
-Name:
-email:
-gitaccount:
+Name: Edson Chavez
+email: edson1939.331@gmail.com
+gitaccount: edson331
