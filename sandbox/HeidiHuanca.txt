@@ -1,4 +1,6 @@
-<<<<<<< HEAD
- Add Name: Heidi Ivanna Huanca Chambi
- Add email: heidihuancah@gmail.com
- Add gitaccount: Heidi2018
+ 
+Add Name: Heidi Ivanna Huanca Chambi
+Add email: heidihuancah@gmail.com
+Add gitaccount: Heidi2018
+
+
