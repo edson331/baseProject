@@ -1,3 +1,3 @@
-Name:Yamil oscar Yabeta Flores
-email:xehanortn0@gmail.com
-gitaccount:YamilYabeta
+ Add Name:Yamil Oscar Yabeta Flores
+ Add email:xehanortn0@gmail.com
+ Add gitaccount:YamilYabeta
