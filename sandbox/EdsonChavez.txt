@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 add Name: EDSON CHAVEZ
 add email: edson1939.331
 add gitaccount: edson331
+=======
+Name: EDSON CHAVEZ
+email: edson1939.331
+gitaccount: edson331
+>>>>>>> d78d8129197417485bdf8bf6de6b9a4c09f97400
